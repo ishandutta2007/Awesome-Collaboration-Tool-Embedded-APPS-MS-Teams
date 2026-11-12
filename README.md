@@ -1,6 +1,6 @@
 # Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams
 
-# Top Collaboration Tool Embedded Apps (MS Teams) Ecosystem
+## Top Collaboration Tool Embedded Apps (MS Teams) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Embedded Team Apps, Workflow Integration & Collaborative Workspace Extensions*  
