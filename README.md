@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&color=green" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
@@ -73,7 +73,7 @@ The global team collaboration software sector is estimated at **$40.2B in 2025**
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk)** | [![Stars](https://img.shields.io/github/stars/microsoft/botframework-sdk?style=social&color=white)](https://github.com/microsoft/botframework-sdk/stargazers) | Core Microsoft Bot Framework SDK repository for building enterprise-grade conversational bot experiences across Microsoft Teams, Web Chat, and Cortana. |
 | **[42wim/matterbridge](https://github.com/42wim/matterbridge)** | [![Stars](https://img.shields.io/github/stars/42wim/matterbridge?style=social&color=white)](https://github.com/42wim/matterbridge/stargazers) | Universal multi-protocol bridge connecting Microsoft Teams, Mattermost, Slack, Discord, Telegram, Matrix, IRC, and XMPP with bidirectional message relay and REST API support. |
@@ -104,7 +104,7 @@ Contributions make the open-source community thrive! Follow these steps to add o
 
 1. 🍴 **Fork the repo.**
 2. 🌿 **Create your branch:** `git checkout -b feature/add-new-tool`
-3. 📝 **Add/edit entries in `README.md`:** Ensure SaaS entries include verified starting prices, free tier limits, and valuations; ensure open-source entries follow the table schema with stars badge and link.
+3. 📝 **Add/edit entries in `README.md`:** Ensure SaaS entries include verified starting prices, free tier limits, and valuations; ensure open-source entries follow the table schema with Stars_Badge and link.
 4. 🚀 **Commit and push:** `git commit -m "Add <tool-name> to list"` and `git push origin feature/add-new-tool`
 5. 📬 **Submit a PR** with a brief overview of the additions.
 
