@@ -1,31 +1,60 @@
-# Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams
+<div align="center">
 
-## Top Collaboration Tool Embedded Apps (MS Teams) Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Collaboration Tool Embedded Apps (MS Teams) Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Embedded Team Apps, Workflow Integration & Collaborative Workspace Extensions*  
-**Last updated: March 2026**
+# 🚀 Awesome Collaboration Tool Embedded Apps (MS Teams)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Collaboration Tool Embedded Apps** within Microsoft Teams and equivalent platforms. These tools extend the native capabilities of team collaboration hubs—embedding CRM records, contract data, project boards, and ticketing systems directly into Teams channels and chats, eliminating context-switching for end users.
+### ⚡ Curated Directory of Enterprise SaaS Solutions, Developer SDKs & Open-Source Projects for Collaborative Workspace Apps
 
-**Examples** include Icertis for Teams, Slack Apps, Zoom Apps, Webex Embedded Apps, Atlassian Apps (Jira/Confluence), Google Workspace Add-ons, Salesforce for Teams, Zendesk for Teams, Asana for Teams, and Workday Everywhere (the category leaders).
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams?style=flat-square&color=green" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section highlights every major active project for building embedded apps, open-source bot frameworks, and community-driven Teams extensions—ideal for developers, platform engineers, and organizations seeking transparent, vendor-neutral collaboration tooling without per-seat marketplace markups.
+<p align="center">
+  <em>A developer and architect resource for embedding CRM records, contract intelligence, project workflows, messaging extensions, and conversational AI bots directly into Microsoft Teams, Slack, and modern unified workspaces.</em>
+</p>
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+</div>
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📌 Table of Contents
+- [📖 Overview & SEO Summary](#-overview--seo-summary)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🛠️ Frameworks for Building Custom Systems](#%EF%B8%8F-frameworks-for-building-custom-systems)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 📖 Overview & SEO Summary
+
+This curated list compiles the premier **Microsoft Teams Embedded Apps**, **collaborative workspace integrations**, and **open-source Teams developer toolkits**. Whether you are looking for enterprise SaaS solutions to bring Salesforce, Icertis, Jira, or Workday into Microsoft 365, or seeking open-source SDKs like **TeamsFx (Teams Toolkit)**, **Microsoft Teams AI Library**, **Adaptive Cards**, and **Matterbridge**, this repository serves as your comprehensive guide.
+
+### 🔍 Key Integration Keywords
+`microsoft-teams-apps` • `embedded-apps` • `teams-toolkit` • `adaptive-cards` • `bot-framework` • `collaboration-software` • `saas-integrations` • `workplace-automation` • `enterprise-crm-teams` • `open-source-teams`
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global team collaboration software sector is estimated at **$40.2B in 2025** and projected to reach **$44.6B in 2026** (scaling toward $85B+ by 2033 at ~9.7% CAGR). The market exhibits a **moderately concentrated, winner-take-most structure at the platform tier**—where a handful of mega-suite ecosystems (Microsoft, Google, Salesforce/Slack, Cisco, and Zoom) capture over 55–60% of total industry revenue—paired with a **highly fragmented long-tail ecosystem of specialized embedded SaaS apps and point solutions** competing across niche workflow, ticketing, and domain-specific integrations.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS / Hosted Platforms
 
 | Product | Company Valuation / Revenue | Description | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|-----------------------------|-------------|-------------------|--------------------------|
@@ -40,7 +69,9 @@ The global team collaboration software sector is estimated at **$40.2B in 2025**
 | **[Icertis for Microsoft Teams](https://www.icertis.com/)** | ~$5B Private Valuation / ~$350M ARR | Embeds contract intelligence directly into Teams. Users can search contracts, view obligations, and receive alerts without leaving the collaboration hub. Part of Icertis' broader enterprise CLM platform. | ~$5,500 per month (~$65,000/yr starting departmental tier via Azure Marketplace 3-yr contract) | No public free tier; guided proof-of-concept / sandbox via enterprise sales |
 | **[Asana for Teams](https://asana.com/apps/microsoft-teams)** | ~$2.5B Market Cap / $700M+ Rev | Embeds Asana tasks, projects, and notifications into Teams. Users can create tasks and view project status without switching tabs. | $10.99 per user/month (Starter plan, billed annually) | Free Personal plan: up to 10 teammates, unlimited tasks/projects/messages |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---------|------------|-------------|
@@ -62,19 +93,46 @@ The global team collaboration software sector is estimated at **$40.2B in 2025**
 | **[formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)** | [![Stars](https://img.shields.io/github/stars/formulahendry/chatgpt-teams-bot?style=social&color=white)](https://github.com/formulahendry/chatgpt-teams-bot/stargazers) | Open-source Microsoft Teams bot template written in TypeScript for interacting directly with OpenAI ChatGPT APIs within Teams channels and 1:1 chats. |
 | **[ChristopherVR/ooxml](https://github.com/ChristopherVR/ooxml)** | [![Stars](https://img.shields.io/github/stars/ChristopherVR/ooxml?style=social&color=white)](https://github.com/ChristopherVR/ooxml/stargazers) | Open-source collaborative workspace and Microsoft Teams alternative providing channels, chat, threads, reactions, and P2P calls synchronized via Yjs CRDTs. |
 
-### Frameworks for Building Custom Systems
+### 🛠️ Frameworks for Building Custom Systems
 Combine **Teams Toolkit (TeamsFx)** and **Teams AI Library** for scaffolding embedded apps, **Adaptive Cards** for reusable cross-platform UI, **Microsoft Teams Samples** as architecture reference implementations, and **channels-sdk** for multi-platform AI bot deployment.
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+Contributions make the open-source community thrive! Follow these steps to add or update solutions:
 
-## Disclaimer
+1. 🍴 **Fork the repo.**
+2. 🌿 **Create your branch:** `git checkout -b feature/add-new-tool`
+3. 📝 **Add/edit entries in `README.md`:** Ensure SaaS entries include verified starting prices, free tier limits, and valuations; ensure open-source entries follow the table schema with stars badge and link.
+4. 🚀 **Commit and push:** `git commit -m "Add <tool-name> to list"` and `git push origin feature/add-new-tool`
+5. 📬 **Submit a PR** with a brief overview of the additions.
+
+⭐ *Don't forget to star the repo if you find this list helpful!*
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated collection useful for your development, architectural planning, or organization, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** to keep the dataset updated.
+- 📢 **Share with colleagues and communities** on LinkedIn, X, Discord, and Reddit.
+- ☕ **Buy a coffee & sponsor ongoing maintenance:**  
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)  
+  *Support the creator on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).*
+
+Thank you for being part of the open collaboration community! 🙌
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Collaboration-Tool-Embedded-APPS-MS-Teams&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Embedded collaboration apps often require OAuth permissions to access CRM, ticketing, or contract data; review scopes carefully and enforce least-privilege access for app installations.
@@ -82,5 +140,7 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for developers, platform engineers, and organizations building integrated collaboration workflows.**  
-Let's make collaboration tool embedded apps more open, interoperable, and user-centric.
+<p align="center">
+  <strong>Made with ❤️ for developers, platform engineers, and enterprise architects building integrated collaboration workflows.</strong><br/>
+  <em>Let's make collaboration tool embedded apps more open, interoperable, and user-centric.</em>
+</p>
