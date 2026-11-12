@@ -123,15 +123,15 @@
     <rect width="165" height="42" rx="21" fill="url(#cardGrad)" stroke="#A855F7" stroke-opacity="0.4" stroke-width="1.5" />
     <circle cx="24" cy="21" r="9" fill="#9333EA" />
     <text x="24" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">🤖</text>
-    <text x="44" y="26" class="badge-pill">AI Agents & Bots</text>
+    <text x="44" y="26" class="badge-pill">AI Agents &amp; Bots</text>
   </g>
 
-  <!-- Floating Node 4: Webhooks & Graph API -->
+  <!-- Floating Node 4: Webhooks &amp; Graph API -->
   <g class="float-reverse" transform="translate(70, 320)">
     <rect width="180" height="42" rx="21" fill="url(#cardGrad)" stroke="#10B981" stroke-opacity="0.4" stroke-width="1.5" />
     <circle cx="24" cy="21" r="9" fill="#059669" />
     <text x="24" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">🔗</text>
-    <text x="44" y="26" class="badge-pill">Graph API & Hooks</text>
+    <text x="44" y="26" class="badge-pill">Graph API &amp; Hooks</text>
   </g>
 
   <!-- Primary Foreground Content (Guaranteed Never Obscured) -->
